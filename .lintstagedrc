@@ -1,0 +1,4 @@
+{
+    "*.js": "npx eslint",
+    "*.json": "npx prettier"
+}
